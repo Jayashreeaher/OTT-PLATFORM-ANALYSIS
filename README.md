@@ -18,3 +18,4 @@ Visualize revenue patterns by month and user type
 Track content viewership trends and engagement levels
 
 Identify which platform leads in overall performance
+![image](https://github.com/user-attachments/assets/43a4979e-7d9e-43c1-bf0c-fd4c0d141256)
